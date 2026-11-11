@@ -1,0 +1,1 @@
+[![Pylint](https://github.com/lukaszpy/calculator/actions/workflows/pylint.yml/badge.svg)](https://github.com/lukaszpy/calculator/actions/workflows/pylint.yml)
