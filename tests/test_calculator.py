@@ -1,3 +1,5 @@
+"""Calculator test module"""
+
 import pytest
 
 from calculator.calculator import Calculator
