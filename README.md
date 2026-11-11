@@ -1,1 +1,1 @@
-[![Pylint](https://github.com/lukaszpy/calculator/actions/workflows/pylint.yml/badge.svg)](https://github.com/lukaszpy/calculator/actions/workflows/pylint.yml)
+[![Pylint](https://github.com/lukaszpy/calculator/actions/workflows/pylint.yml/badge.svg)](https://github.com/lukaszpy/calculator/actions/workflows/pylint.yml)[![Python application](https://github.com/lukaszpy/calculator/actions/workflows/python-app.yml/badge.svg)](https://github.com/lukaszpy/calculator/actions/workflows/python-app.yml)
